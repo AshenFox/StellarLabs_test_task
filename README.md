@@ -1,0 +1,4 @@
+# Stellar Labs - test task
+
+Выполненое тестовое задание с ответами на все вопросы находится в файле [`StellarLabs_тестовое_задание.js`](https://github.com/HoarFox/StellarLabs_test_task/blob/master/StellarLabs_%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.js).
+Также, отдельно ответы на вопросы 5-7, где нужно дать развернутый письменный ответ, можно найти либо в [`5-7 ответы.txt`](https://github.com/HoarFox/StellarLabs_test_task/blob/master/StellarLabs_%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.js) файле, либо по [`ссылке`](https://github.com/HoarFox/StellarLabs_test_task/blob/master/StellarLabs_%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.js) в файле на GoogleDocs.
